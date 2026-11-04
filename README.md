@@ -4,14 +4,14 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Otimiza%C3%A7%C3%A3o+de+PCs+para+jogos;Criador+do+IgorBoost+%F0%9F%9A%80;Sempre+aprendendo+algo+novo" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Otimiza%C3%A7%C3%A3o+de+PCs+para+jogos;Criador+do+FPSMASTER+%F0%9F%9A%80;Sempre+aprendendo+algo+novo" alt="Typing SVG" />
 </p>
 
 ---
 
 ### 🧑‍💻 Sobre mim
 
-- 🔭 Atualmente a trabalhar no **[IgorBoost](https://github.com/IgorMiguelBR/IgorBoost)** — app para Windows que diagnostica e otimiza PCs para jogos
+- 🔭 Atualmente a trabalhar no **[FPSMASTER](https://github.com/IgorMiguelBR/FPSMASTER)** — app para Windows que diagnostica e otimiza PCs para jogos
 - 🎮 Jogo CS2 nas horas vagas
 
 ---
@@ -28,7 +28,7 @@
 
 | Projeto | Descrição |
 |---|---|
-| [**IgorBoost**](https://github.com/IgorMiguelBR/IgorBoost) | Otimizador de PC para jogos (.exe para Windows) |
+| [**FPSMASTER**](https://github.com/IgorMiguelBR/FPSMASTER) | Otimizador de PC para jogos (.exe para Windows) |
 
 ---
 
