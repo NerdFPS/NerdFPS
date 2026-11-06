@@ -11,7 +11,7 @@
 
 ### 🧑‍💻 Sobre mim
 
-- 🛠️ Mais de 6 anos de suporte técnico: hardware, Windows, Microsoft 365, redes e suporte remoto
+- 🛠️ Mais de 3 anos de suporte técnico: hardware, Windows, Microsoft 365, redes e suporte remoto
 - 🔭 A desenvolver o **FPSMASTER**, uma aplicação para Windows que diagnostica e otimiza PCs para jogos (Go + PowerShell)
 - 🤖 Uso IA (Claude) para automatizar tarefas, escrever scripts e documentar soluções
 - 📍 Porto, Portugal · à procura de oportunidades em IT Support / Helpdesk
@@ -32,7 +32,8 @@
 | Projeto | Descrição |
 |---|---|
 | **FPSMASTER** *(em desenvolvimento, código privado)* | Otimizador de PC para Windows: diagnóstico, otimização, instalador, site e sistema de licenças |
-| [**CS2CLIPS-AUTOMATIC**](https://github.com/NerdFPS/CS2CLIPS-AUTOMATIC) | Edição automática de vídeos de destaques de CS2 com Claude Code e FFmpeg |
+| [**CS2CLIPS-AUTOMATIC**](https://github.com/NerdFPS/CS2CLIPS-AUTOMATIC) | Skill para o agente de IA Claude Code que edita sozinha vídeos de destaques de CS2 (FFmpeg) |
+| [**Web Market**](https://github.com/NerdFPS/WebMarketing) | Loja virtual de supermercado (TCC do curso técnico): versão original em PHP + MySQL, reescrita em React + Node.js |
 
 ---
 
