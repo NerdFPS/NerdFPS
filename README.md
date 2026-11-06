@@ -12,9 +12,9 @@
 ### 🧑‍💻 Sobre mim
 
 - 🛠️ Mais de 3 anos de suporte técnico: hardware, Windows, Microsoft 365, redes e suporte remoto
-- 🔭 A desenvolver o **FPSMASTER**, uma aplicação para Windows que diagnostica e otimiza PCs para jogos (Go + PowerShell)
+- 🔭 Desenvolvendo o **FPSMASTER**, um aplicativo para Windows que diagnostica e otimiza PCs para jogos (Go + PowerShell)
 - 🤖 Uso IA (Claude) para automatizar tarefas, escrever scripts e documentar soluções
-- 📍 Porto, Portugal · à procura de oportunidades em IT Support / Helpdesk
+- 📍 Porto, Portugal · buscando oportunidades em IT Support / Helpdesk
 - 💼 [LinkedIn](https://www.linkedin.com/in/igor-miguel-29299a210/)
 
 ---
