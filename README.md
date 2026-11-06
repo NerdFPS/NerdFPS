@@ -15,7 +15,7 @@
 - 🔭 Desenvolvendo o **FPSMASTER**, um aplicativo para Windows que diagnostica e otimiza PCs para jogos (Go + PowerShell)
 - 🤖 Uso IA (Claude) para automatizar tarefas, escrever scripts e documentar soluções
 - 📍 Porto, Portugal · buscando oportunidades em IT Support / Helpdesk
-- 💼 [LinkedIn](https://www.linkedin.com/in/igor-miguel-29299a210/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/igor-miguel-ti/)
 
 ---
 
